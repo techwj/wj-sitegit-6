@@ -1,0 +1,59 @@
+{
+  "siteId": "gas-station-rest-stop-guide",
+  "generatedAt": "2026-06-02T15:38:21.620117",
+  "categories": [
+    "beginner-gas-station-rest-stop-guide",
+    "advanced-gas-station-rest-stop-guide",
+    "tips-gas-station-rest-stop-guide",
+    "history-gas-station-rest-stop-guide",
+    "trending-gas-station-rest-stop-guide",
+    "tutorials-gas-station-rest-stop-guide"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-gas-station-rest-stop-guide",
+      "category_name": "Beginner Gas Station Rest Stop Guide"
+    },
+    {
+      "category_slug": "advanced-gas-station-rest-stop-guide",
+      "category_name": "Advanced Gas Station Rest Stop Guide"
+    },
+    {
+      "category_slug": "tips-gas-station-rest-stop-guide",
+      "category_name": "Gas Station Rest Stop Guide Tips"
+    },
+    {
+      "category_slug": "history-gas-station-rest-stop-guide",
+      "category_name": "Gas Station Rest Stop Guide History"
+    },
+    {
+      "category_slug": "trending-gas-station-rest-stop-guide",
+      "category_name": "Trending Gas Station Rest Stop Guide"
+    },
+    {
+      "category_slug": "tutorials-gas-station-rest-stop-guide",
+      "category_name": "Gas Station Rest Stop Guide Tutorials"
+    }
+  ],
+  "articleCount": 60,
+  "design": {
+    "site_id": "gas-station-rest-stop-guide",
+    "color_scheme": {
+      "name": "Ocean Blue",
+      "primary": "#1e3a8a",
+      "secondary": "#3b82f6",
+      "accent": "#60a5fa",
+      "background": "#f8fafc",
+      "text": "#1e293b",
+      "light": "#f1f5f9"
+    },
+    "font": {
+      "family": "'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif",
+      "heading": "'Segoe UI'",
+      "body": "Roboto"
+    },
+    "layout": "centered",
+    "site_title": "Gas Station Rest Stop Guide Central",
+    "articles_per_row": 2
+  }
+}
